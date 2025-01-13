@@ -1,0 +1,9 @@
+{
+    "name": "m",
+    "description": null,
+    "projects": {
+        "ad8p": "ad8p/dub.json"
+    },
+    "includePath": {
+    }
+}
