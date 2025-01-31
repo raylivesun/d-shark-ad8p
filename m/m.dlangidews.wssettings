@@ -1,3 +1,29 @@
 {
-    "startupProject": "ad8p"
+    "startupProject": "ad8p",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/source/iw2ibg/mono.txt",
+            "column": 565,
+            "row": 52
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/source/iw2ibg/mono.conf",
+            "column": 565,
+            "row": 52
+        }
+    ],
+    "expandedItems": [
+        "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/source/us3ik",
+        "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/dub.json"
+    ],
+    "selectedWorkspaceItem": "/home/admin/app/dlang-komodo/d-shark-ad8p/m/ad8p/source"
 }
